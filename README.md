@@ -1,7 +1,7 @@
-🔠 Braille Vision
+🔠 𝗕𝗿𝗮𝗶𝗹𝗹𝗲 𝗩𝗶𝘀𝗶𝗼𝗻
 
 Braille Vision is an AI-powered assistive tool built to empower visually impaired individuals by converting printed or handwritten English and Hindi text into digital braille. It also supports reverse translation—from braille dots back to English text—and provides interactive chatbot assistance to guide users.
-🌟 Key Features
+🌟 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
 
     📷 Image to Braille (English & Hindi)
     Convert printed or handwritten text in English or Hindi into standard braille dot patterns using OCR and language processing.
@@ -21,7 +21,7 @@ Braille Vision is an AI-powered assistive tool built to empower visually impaire
     📱 Simple UI for Desktop/Tablet Users
     Easy-to-use graphical interface for both visually impaired and sighted users.
 
-🛠 Tech Stack
+🛠 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
     Python
 
@@ -35,7 +35,7 @@ Braille Vision is an AI-powered assistive tool built to empower visually impaire
 
     Chatbot – Rule-based or GPT-powered backend
 
-🚀 Getting Started
+🚀 𝗚𝗲𝘁𝘁𝗶𝗻𝗴 𝗦𝘁𝗮𝗿𝘁𝗲𝗱
 
 git clone https://github.com/Prakash0062/Braille_Vision.git
 cd Braille_Vision
@@ -52,7 +52,7 @@ python main.py
 
     Translating braille script back to readable text for review
 
-🔮 Future Scope
+🔮 𝗙𝘂𝘁𝘂𝗿𝗲 𝗦𝗰𝗼𝗽𝗲
 
     Integration with refreshable braille displays
 
